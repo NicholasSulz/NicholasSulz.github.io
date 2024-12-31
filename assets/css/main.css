@@ -1568,6 +1568,7 @@ input, select, textarea {
 		.image.custom {
 			display: block;
 			width: 20%;
+			margin: 0 0  2em 0;
 		}
 
 		.image.left {
